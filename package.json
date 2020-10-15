@@ -1,0 +1,11 @@
+{
+  "name": "demo-server-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ijlee2/demo-server-app.git",
+  "author": "ijlee2 <ijlee2@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
